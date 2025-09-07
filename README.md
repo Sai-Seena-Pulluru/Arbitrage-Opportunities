@@ -14,6 +14,24 @@ To investigate and simulate cryptocurrency arbitrage opportunities across major 
 
  - Systematic detection and simulation of these opportunities help traders align strategies with their risk appetite and investment goals.
 
+# **Dataset Sources**
+
+ - _Binance:_
+   
+   Binance provides historical market data through both its API and user interface, and both sources offer the same dataset.
+   
+    o	API Documentation: [Binance API Docs](https://developers.binance.com/docs/)
+   
+    o	User Interface: [Binance Data Portal](https://data.binance.vision/)
+   
+ - _Coinbase:_
+   
+   Unlike Binance, Coinbase does not offer a user interface for downloading historical market data. However, the data can be accessed using their API.
+   
+    o	API Documentation: [Coinbase Exchange API](https://docs.cdp.coinbase.com/exchange/introduction/welcome)
+
+Note: These datasets are open-source and publicly available, allowing users to access and analyze historical cryptocurrency market data for research, trading strategies, and data-driven insights.
+
 # **Methodology**
 
 _1. Data Collection_
