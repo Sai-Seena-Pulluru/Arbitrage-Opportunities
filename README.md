@@ -87,3 +87,31 @@ Cryptocurrency arbitrage can be systematically identified and analyzed using his
  - Traders and institutions can choose strategies based on risk tolerance.
 
 This framework establishes a foundation for predictive modeling, real-time arbitrage detection, and multi-exchange analysis, making it scalable for live trading applications.
+
+# **Installation**
+
+_1. Clone the repository_
+
+  git clone https://github.com/Sai-Seena-Pulluru/Arbitrage-Opportunities.git
+
+_2. Install dependencies_
+
+  pip install tkcalendar
+  
+  pip install pandas
+  
+  pip install numpy
+  
+  pip install requests
+  
+  pip install python-binance
+  
+  pip install matplotlib
+  
+  pip install seaborn
+
+# **Author**
+
+Sai Seena Pulluru
+
+Toronto Metropolitan University • MSc Data Science & Analytics • 2025
